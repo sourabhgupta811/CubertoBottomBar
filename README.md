@@ -3,7 +3,7 @@
 Cuberto Bottom Bar Instagram post:
 https://www.instagram.com/p/BtyUbSkBlnF/
 
-<img src="https://i.imgur.com/duZbsxb.gifv" alt="splash activity" width="300px"/>
+<img src="https://i.imgur.com/duZbsxb.gif" alt="splash activity" width="300px"/>
 
 It is an Android implementation of Cuberto Bottom Bar.
 It is just a basic implementation. Feel free to change it according to your need.
