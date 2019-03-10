@@ -3,7 +3,7 @@
 Cuberto Bottom Bar Instagram post:
 https://www.instagram.com/p/BtyUbSkBlnF/
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="duZbsxb"><a href="//imgur.com/duZbsxb">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://i.imgur.com/duZbsxb.gifv" alt="splash activity" width="300px"/>
 
 It is an Android implementation of Cuberto Bottom Bar.
 It is just a basic implementation. Feel free to change it according to your need.
