@@ -4,7 +4,7 @@ Cuberto Bottom Bar Instagram post:
 https://www.instagram.com/p/BtyUbSkBlnF/
 
 
-[![Demo CountPages alpha](https://imgur.com/duZbsxb)](https://imgur.com/duZbsxb)
+[Imgur](https://i.imgur.com/duZbsxb.gifv)
 
 It is an Android implementation of Cuberto Bottom Bar.
 It is just a basic implementation. Feel free to change it according to your need.
